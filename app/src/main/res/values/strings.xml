@@ -37,6 +37,8 @@
     <string name="ServiceSearch">Search For Service</string>
     <string name="wasta_for_easier_services_exchange">Wasta..For easier services exchange</string>
     <string name="description">description</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
 
 
 </resources>
