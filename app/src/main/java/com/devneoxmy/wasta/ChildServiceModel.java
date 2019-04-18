@@ -1,4 +1,4 @@
-package com.powerdev.wasta1;
+package com.devneoxmy.wasta;
 
 import android.os.Parcel;
 import android.os.Parcelable;

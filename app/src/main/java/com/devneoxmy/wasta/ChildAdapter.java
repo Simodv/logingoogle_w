@@ -1,4 +1,4 @@
-package com.powerdev.wasta1;
+package com.devneoxmy.wasta;
 
 import android.view.LayoutInflater;
 import android.view.View;

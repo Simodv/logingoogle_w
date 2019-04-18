@@ -1,4 +1,4 @@
-package com.powerdev.wasta1;
+package com.devneoxmy.wasta;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

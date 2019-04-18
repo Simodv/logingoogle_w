@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:id="@+id/drawer_layout"
 
-    tools:context="com.powerdev.wasta1.MainActivity">
+    tools:context="com.devneoxmy.wasta.MainActivity">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
