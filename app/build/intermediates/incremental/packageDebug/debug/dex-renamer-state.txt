@@ -1,0 +1,4 @@
+#Fri Apr 19 11:17:33 EET 2019
+base.0=C\:\\Users\\Obida Alhatem\\Desktop\\Wasta\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
