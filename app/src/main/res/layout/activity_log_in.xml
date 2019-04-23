@@ -69,28 +69,16 @@
         android:layout_gravity="center"
         android:layout_marginLeft="36dp"
         android:layout_marginRight="36dp"
-        android:background="@color/colorDivider"
-        android:clickable="true"
-        android:focusable="true"
         android:padding="6dp">
 
-        <ImageView
-            android:layout_width="wrap_content"
+        <com.google.android.gms.common.SignInButton
+            android:id="@+id/sign_in_button"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginStart="4dp"
-            android:layout_marginLeft="6dp"
-            android:layout_marginEnd="6dp"
-            android:layout_marginRight="4dp"
-            android:contentDescription="@string/googlelogo"
-            android:src="@drawable/go" />
+            android:layout_marginLeft="36dp"
+            android:layout_marginRight="36dp"
+            />
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:paddingTop="4dp"
-            android:text="@string/log_in_with_google"
-            android:textSize="18sp"
-            android:textStyle="bold" />
     </LinearLayout>
 
     <LinearLayout
